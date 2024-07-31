@@ -1,0 +1,14 @@
+C:\Users\Алина\source\repos\CSharpEducation.Practice\Task5\bin\Debug\net8.0\Task1_5.exe
+C:\Users\Алина\source\repos\CSharpEducation.Practice\Task5\bin\Debug\net8.0\Task1_5.deps.json
+C:\Users\Алина\source\repos\CSharpEducation.Practice\Task5\bin\Debug\net8.0\Task1_5.runtimeconfig.json
+C:\Users\Алина\source\repos\CSharpEducation.Practice\Task5\bin\Debug\net8.0\Task1_5.dll
+C:\Users\Алина\source\repos\CSharpEducation.Practice\Task5\bin\Debug\net8.0\Task1_5.pdb
+C:\Users\Алина\source\repos\CSharpEducation.Practice\Task5\obj\Debug\net8.0\Task1_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алина\source\repos\CSharpEducation.Practice\Task5\obj\Debug\net8.0\Task1_5.AssemblyInfoInputs.cache
+C:\Users\Алина\source\repos\CSharpEducation.Practice\Task5\obj\Debug\net8.0\Task1_5.AssemblyInfo.cs
+C:\Users\Алина\source\repos\CSharpEducation.Practice\Task5\obj\Debug\net8.0\Task1_5.csproj.CoreCompileInputs.cache
+C:\Users\Алина\source\repos\CSharpEducation.Practice\Task5\obj\Debug\net8.0\Task1_5.dll
+C:\Users\Алина\source\repos\CSharpEducation.Practice\Task5\obj\Debug\net8.0\refint\Task1_5.dll
+C:\Users\Алина\source\repos\CSharpEducation.Practice\Task5\obj\Debug\net8.0\Task1_5.pdb
+C:\Users\Алина\source\repos\CSharpEducation.Practice\Task5\obj\Debug\net8.0\Task1_5.genruntimeconfig.cache
+C:\Users\Алина\source\repos\CSharpEducation.Practice\Task5\obj\Debug\net8.0\ref\Task1_5.dll
