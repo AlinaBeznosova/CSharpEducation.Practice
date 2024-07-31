@@ -1,0 +1,14 @@
+C:\Users\Алина\source\repos\CSharpEducation.Practice\bin\Release\Task1B.exe
+C:\Users\Алина\source\repos\CSharpEducation.Practice\bin\Release\Task1B.deps.json
+C:\Users\Алина\source\repos\CSharpEducation.Practice\bin\Release\Task1B.runtimeconfig.json
+C:\Users\Алина\source\repos\CSharpEducation.Practice\bin\Release\Task1B.dll
+C:\Users\Алина\source\repos\CSharpEducation.Practice\bin\Release\Task1B.pdb
+C:\Users\Алина\source\repos\CSharpEducation.Practice\Task1B\obj\Release\net8.0\Task1B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алина\source\repos\CSharpEducation.Practice\Task1B\obj\Release\net8.0\Task1B.AssemblyInfoInputs.cache
+C:\Users\Алина\source\repos\CSharpEducation.Practice\Task1B\obj\Release\net8.0\Task1B.AssemblyInfo.cs
+C:\Users\Алина\source\repos\CSharpEducation.Practice\Task1B\obj\Release\net8.0\Task1B.csproj.CoreCompileInputs.cache
+C:\Users\Алина\source\repos\CSharpEducation.Practice\Task1B\obj\Release\net8.0\Task1B.dll
+C:\Users\Алина\source\repos\CSharpEducation.Practice\Task1B\obj\Release\net8.0\refint\Task1B.dll
+C:\Users\Алина\source\repos\CSharpEducation.Practice\Task1B\obj\Release\net8.0\Task1B.pdb
+C:\Users\Алина\source\repos\CSharpEducation.Practice\Task1B\obj\Release\net8.0\Task1B.genruntimeconfig.cache
+C:\Users\Алина\source\repos\CSharpEducation.Practice\Task1B\obj\Release\net8.0\ref\Task1B.dll
