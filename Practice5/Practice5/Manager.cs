@@ -5,7 +5,7 @@
 	/// </summary>
 	class Manager : Employee
 	{
-		#region Поля.
+		#region Поля
 
 		/// <summary>
 		/// Размер команды.
@@ -14,7 +14,7 @@
 
 		#endregion
 
-		#region Методы.
+		#region Методы
 
 		/// <summary>
 		/// Вывод информации о менеджере в консоль.
@@ -46,7 +46,7 @@
 
 		#endregion
 
-		#region Конструкторы.
+		#region Конструкторы
 
 		/// <summary>
 		/// Конструктор.

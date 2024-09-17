@@ -5,7 +5,7 @@
 	/// </summary>
 	class Contractor : Employee
 	{
-		#region
+		#region Поле
 
 		/// <summary>
 		/// Почасовая ставка.
@@ -14,7 +14,7 @@
 
 		#endregion
 
-		#region Методы.
+		#region Методы
 
 		/// <summary>
 		/// Вывод информации о подрядчике на консоль.
@@ -37,7 +37,7 @@
 
 		#endregion
 
-		#region Конструктор.
+		#region Конструктор
 
 		/// <summary>
 		/// Конструктор.

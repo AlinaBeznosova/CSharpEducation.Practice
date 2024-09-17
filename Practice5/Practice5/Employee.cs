@@ -5,7 +5,7 @@
 	/// </summary>
 	class Employee
 	{
-		#region Поля и свойства.
+		#region Поля и свойства
 
 		/// <summary>
 		/// Имя сотрудника.
@@ -43,7 +43,7 @@
 
 		#endregion
 
-		#region Методы.
+		#region Методы
 
 		/// <summary>
 		/// Вывод информации о сотруднике в консоль.
@@ -63,7 +63,7 @@
 
 		#endregion
 
-		#region Конструкторы.
+		#region Конструкторы
 
 		/// <summary>
 		/// Конструктор.
